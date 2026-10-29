@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://larejouie.org/rejv2/sitemap.xml
